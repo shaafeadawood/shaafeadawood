@@ -45,6 +45,13 @@
 
 ---
 
+### // Weekly Productivity
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=shaafeadawood&theme=tokyonight&layout=compact&hide_border=true)
+
+
+---
+
+
 ### // Network
 **Directory:** [LinkedIn](https://linkedin.com/in/shaafea-dawood) / [Email](mailto:dshaafea@gmail.com) / [Terminal Portfolio](https://github.com/shaafeadawood)
 
