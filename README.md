@@ -1,29 +1,51 @@
-Shaafea Dawood
+# Shaafea Dawood
+## AI Systems Engineer & Full-Stack Architect
+**Focusing on Large Language Models, Autonomous Agents, and Scalable Backend Systems.**
 
-I am a Computer Science student focused on Artificial Intelligence, Machine Learning, Full-Stack Development, and AI Automation. My work revolves around building intelligent, data-driven systems that combine software engineering with practical AI applications.
+`[ Systems Engineering ]` `[ Generative AI ]` `[ Product Architecture ]` `[ Full-Stack ]`
 
-I am particularly interested in developing systems that go beyond traditional applications by integrating learning models, automation workflows, and scalable backend architectures.
+---
 
-Areas of Interest
-Artificial Intelligence and Machine Learning
-Full-Stack Web Development (Frontend and Backend)
-AI Automation and Workflow Systems (LLM integrations, API-based automation)
-Backend Development and Scalable System Design
-Data-driven Applications and Intelligent Systems
-Currently Learning
-Advanced Machine Learning and AI system design
-LLM integration and AI-powered applications
-Scalable backend architectures using modern frameworks
-Automation workflows and API orchestration systems
-Collaboration Interests
-AI-powered applications and intelligent systems
-Machine learning projects with real-world use cases
-Full-stack applications with AI integration
-Automation systems using APIs and modern tools
-Contact
+### // Engineering Analytics
+<!-- Real-time metrics generated via GitHub API -->
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shaafeadawood&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaafeadawood&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</p>
 
-GitHub: https://github.com/shaafeadawood
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaafeadawood&theme=tokyonight&hide_border=true" alt="Engineering Streak" />
+</p>
 
-LinkedIn: https://linkedin.com/in/shaafea-dawood
+---
 
-Email: dshaafea@gmail.com
+### // Technical Core
+
+| Architecture | Stack & Ecosystem |
+| :--- | :--- |
+| **AI / Machine Learning** | Python • PyTorch • Scikit-learn • Pandas • OpenCV |
+| **LLM & Automation** | LangChain • OpenAI • Vector DBs (Chroma/Pinecone) • RAG Pipelines |
+| **Backend & Systems** | Node.js • FastAPI • PostgreSQL • Redis • Docker • Nginx |
+| **Frontend Engineering** | TypeScript • Next.js • React • TailwindCSS • Design Systems |
+| **DevOps & Workflow** | CI/CD • GitHub Actions • Cloud Infrastructure (AWS) • Linux |
+
+---
+
+### // Current Research & Development
+*   **Agentic Workflows:** Engineering multi-agent systems for autonomous task execution and tool-calling.
+*   **RAG Optimization:** Implementing advanced retrieval strategies to enhance LLM context accuracy and reduce hallucinations.
+*   **System Scalability:** Architecting event-driven backends capable of handling high-concurrency ML inference requests.
+
+---
+
+### // Professional Contributions
+*   **Open Source:** Actively contributing to modular libraries and developer tools.
+*   **System Audits:** Refactoring legacy codebases into modern, type-safe microservices.
+*   **AI Integration:** Bridging the gap between raw data models and production-ready user interfaces.
+
+---
+
+### // Network
+**Directory:** [LinkedIn](https://linkedin.com/in/shaafea-dawood) / [Email](mailto:dshaafea@gmail.com) / [Terminal Portfolio](https://github.com/shaafeadawood)
+
+---
