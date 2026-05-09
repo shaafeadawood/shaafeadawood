@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0D1117&height=200&section=header&text=Shaafea%20Dawood&fontSize=70&animation=fadeIn&fontAlignY=35&fontColor=ffffff&revalidate=true" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0D1117&height=200&section=header&text=Shaafea%20Dawood&fontSize=70&animation=fadeIn&fontAlignY=35&fontColor=ffffff" />
 </p>
 
 ## // AI Systems Engineer & Full-Stack Architect
@@ -10,6 +10,7 @@
 ---
 
 ### // Engineering Analytics Dashboard
+<!-- Using multiple providers to ensure something always loads -->
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shaafeadawood&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaafeadawood&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
@@ -19,21 +20,23 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaafeadawood&theme=tokyonight&hide_border=true" alt="Engineering Streak" />
 </p>
 
-### // Weekly Productivity
-<!-- NOTE: This card will automatically start working tomorrow once WakaTime has 24h of history -->
+### // Weekly Productivity & Deep Work
+<!-- This will display correctly tomorrow once your account has 24h of data -->
 ![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=shaafeadawood&theme=tokyonight&layout=compact&hide_border=true)
 
 ---
 
-### // Technical Core (Original Stack)
+### // Technical Arsenal
+<!-- Modern Tech Badges (Senior Standard) -->
 
-| Architecture | Stack & Ecosystem |
-| :--- | :--- |
-| **AI / Machine Learning** | Python • PyTorch • Scikit-learn • Pandas • OpenCV |
-| **LLM & Automation** | LangChain • OpenAI • Vector DBs (Chroma/Pinecone) • RAG Pipelines |
-| **Backend & Systems** | Node.js • FastAPI • PostgreSQL • Redis • Docker • Nginx |
-| **Frontend Engineering** | TypeScript • Next.js • React • TailwindCSS • Design Systems |
-| **DevOps & Workflow** | CI/CD • GitHub Actions • Cloud Infrastructure (AWS) • Linux |
+**AI / Machine Learning**  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+**Generative AI & Backend**  
+![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white) ![NodeJs](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+**Frontend & Systems**  
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
@@ -44,14 +47,7 @@
 
 ---
 
-### // Professional Contributions
-*   **◈ Open Source:** Actively contributing to modular libraries and developer tools in the AI ecosystem.
-*   **◈ System Audits:** Refactoring legacy codebases into modern, type-safe, and scalable microservices.
-*   **◈ Product Design:** Bridging the gap between complex engineering models and intuitive user interfaces.
-
----
-
-### // Directory
+### // Professional Directory
 **Network:** [LinkedIn](https://linkedin.com/in/shaafea-dawood) / [Email](mailto:dshaafea@gmail.com) / [Portfolio](https://github.com/shaafeadawood)
 
 ---
