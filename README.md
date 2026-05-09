@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0D1117&height=200&section=header&text=Shaafea%20Dawood&fontSize=70&animation=fadeIn&fontAlignY=35&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0D1117&height=200&section=header&text=Shaafea%20Dawood&fontSize=70&animation=fadeIn&fontAlignY=35&fontColor=ffffff&revalidate=true" />
 </p>
 
 ## // AI Systems Engineer & Full-Stack Architect
@@ -10,25 +10,18 @@
 ---
 
 ### // Engineering Analytics Dashboard
-<!-- This 2x2 grid makes your profile look like a professional monitoring dashboard -->
-<table border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=shaafeadawood&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" />
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaafeadawood&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaafeadawood&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Engineering Streak" />
-    </td>
-    <td width="50%" valign="top">
-       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=shaafeadawood&theme=tokyonight&layout=compact&hide_border=true&cache_seconds=1800" />
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shaafeadawood&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaafeadawood&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaafeadawood&theme=tokyonight&hide_border=true" alt="Engineering Streak" />
+</p>
+
+### // Weekly Productivity
+<!-- NOTE: This card will automatically start working tomorrow once WakaTime has 24h of history -->
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=shaafeadawood&theme=tokyonight&layout=compact&hide_border=true)
 
 ---
 
@@ -63,5 +56,5 @@
 
 ---
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=One%20of%20my%20most%20productive%20days%20was%20throwing%20away%201,000%20lines%20of%20code.&author=Ken%20Thompson&cache_seconds=1800" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=One%20of%20my%20most%20productive%20days%20was%20throwing%20away%201,000%20lines%20of%20code.&author=Ken%20Thompson" />
 </p>
